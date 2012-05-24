@@ -26,5 +26,5 @@ class Cliente {
         id column: 'CUSTOMER_ID'
         codigoDescuento column: 'discount_code'
        
-    }
+    }      
 }

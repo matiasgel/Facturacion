@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Thu May 24 00:45:36 ART 2012:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0137-7cf3-1c67-0000296a7300 
-on database directory C:\Users\Matias\Documents\NetBeansProjects\Facturacion\db  with class loader org.codehaus.groovy.grails.cli.support.GrailsRootLoader@a32b 
+Thu May 24 11:01:44 ART 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0137-7f27-31a3-0000231e6f48 
+on database directory C:\Users\Matias\Documents\NetBeansProjects\Facturacion\db  with class loader org.codehaus.groovy.grails.cli.support.GrailsRootLoader@a470b8 
 Loaded from file:/C:/Users/Matias/Documents/NetBeansProjects/Facturacion/lib/derby.jar
 java.vendor=Sun Microsystems Inc.
 java.runtime.version=1.6.0_21-b07

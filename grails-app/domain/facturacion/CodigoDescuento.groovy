@@ -7,6 +7,6 @@ class CodigoDescuento {
        id generator:'assigned'
        table name: 'DISCOUNT_CODE'       
        id column: 'DISCOUNT_CODE'
-       porcentaje column:'RATE'
+       porcentaje column:'RATE'       
     }
 }
