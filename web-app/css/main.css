@@ -48,9 +48,16 @@ body {
 }
 
 #grailsLogo {
-	background-color: #abbf78;
+	/*background-color: #abbf78;*/
 }
-
+.greenLine{
+    text-align: center;
+    width: 100%;
+    background-color: #abbf78;
+    color: white;
+    font-size: large;
+    
+}
 /* replace with .no-boxshadow body if you have modernizr available */
 .ie6 body,
 .ie7 body,
