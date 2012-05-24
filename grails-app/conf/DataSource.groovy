@@ -1,6 +1,6 @@
 
 dataSource {
-    pooled = true
+    pooled = false
     driverClassName = "org.apache.derby.jdbc.EmbeddedDriver"
     username = "app"
     password = "app"
