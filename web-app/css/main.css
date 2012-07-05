@@ -7,6 +7,22 @@ input, select, textarea {
 h1, h2, h3, h4, h5, h6 {
 	line-height: 1.1;
 }
+.titulo_theader{
+    float:left;
+}
+.imagen_theader{
+    float: right;
+}
+.boton_arriba{
+    background: url(../images/arrow_mini_up.png) no-repeat center;
+    width: 9px;
+    height: 15px;
+}
+.boton_abajo{
+  background: url(../images/arrow_mini_down.png) no-repeat center;
+    width: 12px;
+    height: 15px;
+}
 
 /* BASE LAYOUT */
 
