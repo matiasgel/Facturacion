@@ -38,7 +38,9 @@ class PracticoQueryController {
     }
     
     def punto8(){
-        
+       def name=params.columnName
+       def order = params.order
+       
     }
     
     def punto9(){
